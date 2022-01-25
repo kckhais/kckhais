@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Profile Views](https://komarev.com/ghpvc/?username=kckhais)
+![](https://komarev.com/ghpvc/?username=kckhais&style=flat-square
 
 <!---
 kckhais/kckhais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
